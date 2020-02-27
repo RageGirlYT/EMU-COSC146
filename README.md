@@ -25,6 +25,7 @@ Here are some web pages that you may need to refer to:
   - Wikipedia list of datasets for machine-learning 
       <https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research#Games>
   - <https://github.com/jdorfman/awesome-json-datasets>
+    - JSON Pokedex (My Favorite Datatset) <https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json>
   - <https://github.com/awesomedata/awesome-public-datasets>
   - <https://www.kaggle.com/datasets>
   - <https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security>
