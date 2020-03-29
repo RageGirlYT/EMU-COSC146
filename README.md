@@ -44,8 +44,17 @@ Here are some web pages that you may need to refer to:
         it is not related to my major. Categorical fields would be Country/Region, and perhaps Province/State. 
         There are several numerical fields. Graphing the growth of cases over time for a selected state like 
         Michigan would be possible, but the date field looks different than what we have studied. I may need some help there.
+   
    -**Cody Sharp**
      - Yu-Gi-Oh! Trading Cards Dataset
       -https://www.kaggle.com/tathor/yugioh-trading-cards-dataset/data
       - YuGiOh is a card game that I have a lot of interest in and I think it would be fun to explore the most common card type or              monster attributes given the over 6,000 cards included in this data set.
   
+  -**Alyssa Hopkins**
+    -Trending YouTube Video Statistics
+        -<https://www.kaggle.com/datasnaek/youtube-new>
+    - I think it would be fun to explore the statistics of YouTube videos that were trending
+   
+    -Pokemon Data (gen VII included)
+        -<https://www.kaggle.com/kronostheus/pokemon-data#pokemon.csv>
+    - I think it's pretty obvious that I'm a big Pokemon fan and I really like explore the data that different people like to include about each Pokemon
